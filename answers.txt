@@ -1,0 +1,3 @@
+What is the difference between a merge and a rebase?
+
+Merge doesn't affect existing branches. Rebase sets the current branch as a new main, getting changes in the existing main branch.
